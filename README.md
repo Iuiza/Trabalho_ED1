@@ -1,2 +1,2 @@
-# Trabalho ED1
+# Agência de viagens em C
 Trabalho da disciplina Estrutura de Dados I
